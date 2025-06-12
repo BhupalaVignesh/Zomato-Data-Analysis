@@ -1,5 +1,6 @@
 This project focuses on analyzing the Zomato restaurant dataset using both SQL and Python to uncover meaningful insights about the global food and dining landscape. Zomato is a well-known platform that provides details on restaurants, including their location, cuisine, ratings, cost, and delivery options.
 The project is divided into two major parts:
+
 SQL Analysis:
 1.We first created a relational database using MySQL and imported the Zomato dataset.
 2.Structured queries were used to explore the data, including identifying unique countries, top cuisines, high-rated restaurants, and availability of delivery or table booking.
